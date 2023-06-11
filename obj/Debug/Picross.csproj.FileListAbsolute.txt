@@ -1,0 +1,33 @@
+C:\Users\Becky\Desktop\college documents\CGT456\Picross\bin\Debug\Picross.exe.config
+C:\Users\Becky\Desktop\college documents\CGT456\Picross\bin\Debug\Picross.exe
+C:\Users\Becky\Desktop\college documents\CGT456\Picross\bin\Debug\Picross.pdb
+C:\Users\Becky\Desktop\college documents\CGT456\Picross\obj\Debug\Picross.csprojAssemblyReference.cache
+C:\Users\Becky\Desktop\college documents\CGT456\Picross\obj\Debug\MainWindow.g.cs
+C:\Users\Becky\Desktop\college documents\CGT456\Picross\obj\Debug\App.g.cs
+C:\Users\Becky\Desktop\college documents\CGT456\Picross\obj\Debug\Picross_MarkupCompile.cache
+C:\Users\Becky\Desktop\college documents\CGT456\Picross\obj\Debug\Picross_MarkupCompile.lref
+C:\Users\Becky\Desktop\college documents\CGT456\Picross\obj\Debug\MainWindow.baml
+C:\Users\Becky\Desktop\college documents\CGT456\Picross\obj\Debug\Picross.g.resources
+C:\Users\Becky\Desktop\college documents\CGT456\Picross\obj\Debug\Picross.Properties.Resources.resources
+C:\Users\Becky\Desktop\college documents\CGT456\Picross\obj\Debug\Picross.csproj.GenerateResource.cache
+C:\Users\Becky\Desktop\college documents\CGT456\Picross\obj\Debug\Picross.csproj.CoreCompileInputs.cache
+C:\Users\Becky\Desktop\college documents\CGT456\Picross\obj\Debug\Picross.exe
+C:\Users\Becky\Desktop\college documents\CGT456\Picross\obj\Debug\Picross.pdb
+C:\Users\Becky\Desktop\college documents\CGT456\Picross\obj\Debug\Picross_Content.g.cs
+C:\Users\rkbk9\Documents\College\CGT456\Picross\bin\Debug\Picross.exe.config
+C:\Users\rkbk9\Documents\College\CGT456\Picross\bin\Debug\Picross.exe
+C:\Users\rkbk9\Documents\College\CGT456\Picross\bin\Debug\Picross.pdb
+C:\Users\rkbk9\Documents\College\CGT456\Picross\obj\Debug\Picross.csproj.AssemblyReference.cache
+C:\Users\rkbk9\Documents\College\CGT456\Picross\obj\Debug\Picross.csproj.SuggestedBindingRedirects.cache
+C:\Users\rkbk9\Documents\College\CGT456\Picross\obj\Debug\MainWindow.g.cs
+C:\Users\rkbk9\Documents\College\CGT456\Picross\obj\Debug\App.g.cs
+C:\Users\rkbk9\Documents\College\CGT456\Picross\obj\Debug\Picross_Content.g.cs
+C:\Users\rkbk9\Documents\College\CGT456\Picross\obj\Debug\Picross_MarkupCompile.cache
+C:\Users\rkbk9\Documents\College\CGT456\Picross\obj\Debug\Picross_MarkupCompile.lref
+C:\Users\rkbk9\Documents\College\CGT456\Picross\obj\Debug\MainWindow.baml
+C:\Users\rkbk9\Documents\College\CGT456\Picross\obj\Debug\Picross.g.resources
+C:\Users\rkbk9\Documents\College\CGT456\Picross\obj\Debug\Picross.Properties.Resources.resources
+C:\Users\rkbk9\Documents\College\CGT456\Picross\obj\Debug\Picross.csproj.GenerateResource.cache
+C:\Users\rkbk9\Documents\College\CGT456\Picross\obj\Debug\Picross.csproj.CoreCompileInputs.cache
+C:\Users\rkbk9\Documents\College\CGT456\Picross\obj\Debug\Picross.exe
+C:\Users\rkbk9\Documents\College\CGT456\Picross\obj\Debug\Picross.pdb
